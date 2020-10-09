@@ -6,7 +6,7 @@ body {
 
 .container {
     background-image: url("neon.jpg");
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     opacity: 0.8; 
     filter: alpha(opacity=80);
